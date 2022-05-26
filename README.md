@@ -19,7 +19,7 @@ Any amount of candy that's leftover is acceptable, we don't need to use every pi
 
 Seed each bag with the pre-set distrubution for "rarity" guarantees.
 Generator a random number as the set [ bagCount ] and memo that number.
-Re-organize the the array from smallest memo number to largest.
+Re-organize the the array from smallest random seed number to largest random seed.
 
 Each bag will have 4 possible candies pieces.
 
